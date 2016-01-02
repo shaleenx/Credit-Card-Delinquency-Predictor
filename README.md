@@ -9,9 +9,9 @@
 5. Statsmodels 0.6.1
 
 ##Usage
-'''
+```
 python modelbuilder.py
-'''
+```
 
 ##Model Objective
 The training dataset would contain data about credit card accounts that are currently Bucket 1 Delinquent.
