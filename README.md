@@ -17,3 +17,6 @@ python modelbuilder.py
 The training dataset would contain data about credit card accounts that are currently Bucket 1 Delinquent.
 The data set would contain a target flag which tells whether that account went into the Delinquency Bucket 4 in the next 9 months or not.
 After training the model on the prescribed data set, the model would be able to predict the probability of a credit card account to go into the Delinquency Bucket 4, given that it is already in Delinquency Bucket 1.
+
+##Note
+One must train the model on a dataset similar to the one used, the details of which cannot be shared publicly. For info on the kind of variables to include in your dataset, shoot an email to on shaleenx@gmail.com.
