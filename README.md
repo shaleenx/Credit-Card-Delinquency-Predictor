@@ -2,7 +2,7 @@
 ##Machine Learning Model for Predicting Credit Card Charge-Offs in the Next 2 Years
 
 ##Dependencies
-1. Python v2.7
+1. Python v2.7.3
 2. Pandas v0.17.1 or more
 3. Numpy 1.10.1 or more
 4. Sklearn 0.17
